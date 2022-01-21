@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include<string.h>
-#define LENGTH 8
+#define LENGTH 10
 int main () {
     char* username, *nlptr;
     int allow = 0;
